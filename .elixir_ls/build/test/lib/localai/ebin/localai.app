@@ -7,6 +7,7 @@
               {modules,['Elixir.Localai','Elixir.Localai.Application',
                         'Elixir.Localai.DataCase','Elixir.Localai.Repo',
                         'Elixir.Localai.Schema.Driver',
+                        'Elixir.Localai.Schema.Package',
                         'Elixir.Localai.Schema.Ride',
                         'Elixir.Localai.Schema.User','Elixir.LocalaiWeb',
                         'Elixir.LocalaiWeb.ChannelCase',

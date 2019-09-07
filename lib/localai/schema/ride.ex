@@ -3,7 +3,7 @@ defmodule Localai.Schema.Ride do
   import Ecto.Changeset
 
   schema "rides" do
-
+    field :model, :string
 
     timestamps()
   end
