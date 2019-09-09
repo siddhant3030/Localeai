@@ -19,6 +19,7 @@
                         'Elixir.LocalaiWeb.Gettext',
                         'Elixir.LocalaiWeb.Router',
                         'Elixir.LocalaiWeb.Router.Helpers',
+                        'Elixir.LocalaiWeb.UserController',
                         'Elixir.LocalaiWeb.UserSocket']},
               {registered,[]},
               {vsn,"0.1.0"},
