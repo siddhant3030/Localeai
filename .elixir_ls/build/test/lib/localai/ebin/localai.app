@@ -8,6 +8,7 @@
                         'Elixir.Localai','Elixir.Localai.Application',
                         'Elixir.Localai.DataCase',
                         'Elixir.Localai.Model.Driver',
+                        'Elixir.Localai.Model.Ride',
                         'Elixir.Localai.Model.User','Elixir.Localai.Repo',
                         'Elixir.Localai.Schema.Driver',
                         'Elixir.Localai.Schema.Package',
